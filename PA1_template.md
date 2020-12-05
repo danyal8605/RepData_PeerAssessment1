@@ -2,9 +2,7 @@
 title: "Reproducible Research Project 1"
 author: "Danyal Ahmed"
 date: "12/5/2020"
-output:
-  html_document:
-    df_print: paged
+output: github_document
 ---
 
 ## Introduction
